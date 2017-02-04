@@ -1,0 +1,9 @@
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\bin\Debug\Ksu.Cis300.Homework2.exe.config
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\bin\Debug\Ksu.Cis300.Homework2.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\bin\Debug\Ksu.Cis300.Homework2.pdb
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.csprojResolveAssemblyReference.cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.Properties.Resources.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.UserInterface.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.csproj.GenerateResource.Cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Homework2\Ksu.Cis300.Homework2\obj\Debug\Ksu.Cis300.Homework2.pdb

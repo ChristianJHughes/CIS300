@@ -1,0 +1,10 @@
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\bin\Debug\Ksu.Cis300.BaseballScores.exe.config
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\bin\Debug\Ksu.Cis300.BaseballScores.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\bin\Debug\Ksu.Cis300.BaseballScores.pdb
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.csprojResolveAssemblyReference.cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.GameInformation.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.UserInterface.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.Properties.Resources.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.csproj.GenerateResource.Cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.BaseballScores\Ksu.Cis300.BaseballScores\obj\Debug\Ksu.Cis300.BaseballScores.pdb

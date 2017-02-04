@@ -1,0 +1,150 @@
+BS1,Boston,Braves,1871,1875
+CH1,Chicago,White Stockings,1871,1871
+CL1,Cleveland,Forest Cities,1871,1872
+FW1,Ft. Wayne,Kekiongas,1871,1871
+NY2,New York,Mutuals,1871,1875
+PH1,Philadelphia,Athletics,1871,1875
+RC1,Rockford,Forest Citys,1871,1871
+TRO,Troy,Haymakers,1871,1872
+WS3,Washington,Olympics,1871,1872
+BL1,Baltimore,Lord Baltimores,1872,1874
+BR1,Brooklyn,Eckfords,1872,1872
+BR2,Brooklyn,Atlantics,1872,1875
+MID,Middletown,Mansfields,1872,1872
+WS4,Washington,Nationals,1872,1872
+BL4,Baltimore,Marylands,1873,1873
+ELI,Elizabeth,Resolutes,1873,1873
+PH2,Philadelphia,White Stockings,1873,1875
+WS5,Washington,Nationals,1873,1873
+CH2,Chicago,White Stockings,1874,1875
+HR1,Hartford,Dark Blues,1874,1875
+KEO,Keokuk,Westerns,1875,1875
+NH1,New Haven,New Havens,1875,1875
+PH3,Philadelphia,Centennials,1875,1875
+SL1,St. Louis,Red Stockings,1875,1875
+SL2,St. Louis,Brown Stockings,1875,1875
+WS6,Washington,Olympics,1875,1875
+BSN,Boston,Braves,1876,1952
+CHN,Chicago,Cubs,1876,2013
+CN1,Cincinnati,Reds,1876,1880
+HAR,Hartford,Dark Blues,1876,1877
+LS1,Louisville,Grays,1876,1877
+NY3,New York,Mutuals,1876,1876
+PHN,Philadelphia,Athletics,1876,1876
+SL3,St. Louis,Brown Stockings,1876,1877
+IN1,Indianapolis,Blues,1878,1878
+ML2,Milwaukee,Cream Citys,1878,1878
+PRO,Providence,Grays,1878,1885
+BFN,Buffalo,Bisons,1879,1885
+CL2,Cleveland,Spiders,1879,1884
+SR1,Syracuse,Stars,1879,1879
+TRN,Troy,Trojans,1879,1882
+WOR,Worcester,Ruby Legs,1880,1882
+DTN,Detroit,Wolverines,1881,1888
+BL2,Baltimore,Orioles,1882,1889
+CN2,Cincinnati,Reds,1882,1889
+LS2,Louisville,Colonels,1882,1891
+PH4,Philadelphia,Athletics,1882,1891
+PT1,Pittsburgh,Pirates,1882,1886
+SL4,St. Louis,Cardinals,1882,1891
+CL5,Columbus,Colts,1883,1884
+NY4,New York,Metropolitans,1883,1887
+NY1,New York,Giants,1883,1957
+PHI,Philadelphia,Phillies,1883,2013
+BR3,Brooklyn,Dodgers,1884,1889
+IN2,Indianapolis,Blues,1884,1884
+RIC,Richmond,Virginias,1884,1884
+TL1,Toledo,Blue Stockings,1884,1884
+WS7,Washington,Nationals,1884,1884
+ALT,Altoona,Pride,1884,1884
+BLU,Baltimore,Unions,1884,1884
+BSU,Boston,Unions,1884,1884
+CHU,Chicago,Unions,1884,1884
+CNU,Cincinnati,Outlaw Reds,1884,1884
+KCU,Kansas City,Unions,1884,1884
+MLU,Milwaukee,Unions,1884,1884
+PHU,Philadelphia,Keystones,1884,1884
+PTU,Pittsburgh,Unions,1884,1884
+SLU,St. Louis,Maroons,1884,1884
+SPU,St. Paul,Saints,1884,1884
+WSU,Washington,Nationals,1884,1884
+WIL,Wilmington,Quicksteps,1884,1884
+SL5,St. Louis,Maroons,1885,1886
+KCN,Kansas City,Cowboys,1886,1886
+WS8,Washington,Senators,1886,1889
+CL3,Cleveland,Spiders,1887,1888
+IN3,Indianapolis,Hoosiers,1887,1889
+PIT,Pittsburgh,Pirates,1887,2013
+KC2,Kansas City,Cowboys,1888,1889
+CL6,Columbus,Colts,1889,1891
+CL4,Cleveland,Spiders,1889,1899
+BL3,Baltimore,Orioles,1890,1891
+BR4,Brooklyn,Gladiators,1890,1890
+RC2,Rochester,Hop Bitters,1890,1890
+SR2,Syracuse,Stars,1890,1890
+TL2,Toledo,Maumees,1890,1890
+BRO,Brooklyn,Dodgers,1890,1957
+CIN,Cincinnati,Reds,1890,2013
+BSP,Boston,Reds,1890,1890
+BRP,Brooklyn,Wonders,1890,1890
+BFP,Buffalo,Bisons,1890,1890
+CHP,Chicago,Pirates,1890,1890
+CLP,Cleveland,Infants,1890,1890
+NYP,New York,Giants,1890,1890
+PHP,Philadelphia,Quakers,1890,1890
+PTP,Pittsburgh,Burghers,1890,1890
+BS2,Boston,Reds,1891,1891
+CN3,Cincinnati,Kelly's Killers,1891,1891
+ML3,Milwaukee,Brewers,1891,1891
+WS9,Washington,Senators,1891,1891
+BLN,Baltimore,Orioles,1892,1899
+LS3,Louisville,Colonels,1892,1899
+SLN,St. Louis,Cardinals,1892,2013
+WSN,Washington,Senators,1892,1899
+BLA,Baltimore,Orioles,1901,1902
+BOS,Boston,Red Sox,1901,2013
+CHA,Chicago,White Sox,1901,2013
+CLE,Cleveland,Indians,1901,2013
+DET,Detroit,Tigers,1901,2013
+MLA,Milwaukee,Brewers,1901,1901
+PHA,Philadelphia,Athletics,1901,1954
+WS1,Washington,Senators,1901,1960
+SLA,St.Louis,Browns,1902,1953
+NYA,New York,Yankees,1903,2013
+BLF,Baltimore,Terrapins,1914,1915
+BRF,Brooklyn,Tip-Tops,1914,1915
+BUF,Buffalo,Blues,1914,1915
+CHF,Chicago,Whales,1914,1915
+IND,Indianapolis,Hoosiers,1914,1914
+KCF,Kansas City,Packers,1914,1915
+PTF,Pittsburgh,Rebels,1914,1915
+SLF,St.Louis,Terriers,1914,1915
+NEW,Newark,Peppers,1915,1915
+MLN,Milwaukee,Braves,1953,1965
+BAL,Baltimore,Orioles,1954,2013
+KC1,Kansas City,Athletics,1955,1967
+LAN,Los Angeles,Dodgers,1958,2013
+SFN,San Francisco,Giants,1958,2013
+LAA,Los Angeles,Angels,1961,1964
+MIN,Minnesota,Twins,1961,2013
+WS2,Washington,Senators,1961,1971
+HOU,Houston,Astros,1962,2013
+NYN,New York,Mets,1962,2013
+CAL,California,Angels,1965,1996
+ATL,Atlanta,Braves,1966,2013
+OAK,Oakland,Athletics,1968,2013
+KCA,Kansas City,Royals,1969,2013
+SE1,Seattle,Pilots,1969,1969
+MON,Montreal,Expos,1969,2004
+SDN,San Diego,Padres,1969,2013
+TEX,Texas,Rangers,1972,2013
+TOR,Toronto,Blue Jays,1977,2013
+SEA,Seattle,Mariners,1977,2013
+FLO,Florida,Marlins,1993,2011
+COL,Colorado,Rockies,1993,2013
+ANA,Los Angeles,Angels,1997,2013
+TBA,Tampa Bay,Rays,1998,2013
+ARI,Arizona,Diamondbacks,1998,2013
+MIL,Milwaukee,Brewers,1970,2013
+WAS,Washington,Nationals,2005,2013
+MIA,Miami,Marlins,2012,2013

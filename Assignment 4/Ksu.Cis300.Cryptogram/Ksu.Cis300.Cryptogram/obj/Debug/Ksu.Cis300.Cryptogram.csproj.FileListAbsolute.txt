@@ -1,0 +1,9 @@
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\bin\Debug\Ksu.Cis300.Cryptogram.exe.config
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.csprojResolveAssemblyReference.cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.UserInterface.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.Properties.Resources.resources
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.csproj.GenerateResource.Cache
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\bin\Debug\Ksu.Cis300.Cryptogram.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\bin\Debug\Ksu.Cis300.Cryptogram.pdb
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.exe
+C:\Users\SoClassyItHurts\Desktop\Ksu.Cis300.Cryptogram\Ksu.Cis300.Cryptogram\obj\Debug\Ksu.Cis300.Cryptogram.pdb
